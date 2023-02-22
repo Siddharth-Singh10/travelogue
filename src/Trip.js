@@ -137,7 +137,7 @@ const Trip = () => {
                     <div className="course-preview">
                       <h6>Organizer</h6>
                       <h3>Siddharth Singh</h3>
-                      <Link to="tripdetail">
+                      <Link to="/tripdetail">
                         view details <i className="fas fa-chevron-right"></i>
                       </Link>
                     </div>
@@ -161,7 +161,7 @@ const Trip = () => {
                     <div className="course-preview">
                       <h6>Organizer</h6>
                       <h3>Prathamesh Mitkar</h3>
-                      <Link to="tripdetail">
+                      <Link to="/tripdetail">
                         view details <i className="fas fa-chevron-right"></i>
                       </Link>
                     </div>
@@ -185,7 +185,7 @@ const Trip = () => {
                     <div className="course-preview">
                       <h6>Organizer</h6>
                       <h3>Balaji Vaste</h3>
-                      <Link to="tripdetail">
+                      <Link to="/tripdetail">
                         view details <i className="fas fa-chevron-right"></i>
                       </Link>
                     </div>
